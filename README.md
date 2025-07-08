@@ -1,6 +1,6 @@
 # Python X Library 日本語ドキュメント
 
-このプロジェクトは、Python X Library（https://python-xlib.github.io/）の公式ドキュメントを日本語に翻訳したものです。
+このプロジェクトは、[Python X Library](https://python-xlib.github.io/)の公式ドキュメントを日本語に翻訳したものです。
 
 ## 📁 ファイル構成
 
