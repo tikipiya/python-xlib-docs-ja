@@ -91,6 +91,6 @@ python-xlib-docs-ja/
 
 ---
 
-**最終更新**: 2025年3月  
-**翻訳者**: 自動翻訳システム  
+**最終更新**: 2025年7月8日
+**翻訳者**: tikisan. 
 **元ドキュメント**: https://python-xlib.github.io/
